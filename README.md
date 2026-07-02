@@ -164,8 +164,8 @@ http://localhost:3000
 
 ## 👥 Team
 
-| Name | Role |
-|---|---|
+| Name | 
+|---|
 | [Anup Kumar Jena](https://github.com/AKJenaX)
 | [Priyanshi Mohanty](https://github.com/Priyanshi305)
 | [Setti Sohalya](https://github.com/Setti-Sohalya)
